@@ -13,5 +13,5 @@ public class ConvertCurrencyServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConvertCurrencyServiceApplication.class, args);
 	}
-
+	
 }
